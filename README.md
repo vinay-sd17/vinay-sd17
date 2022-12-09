@@ -20,3 +20,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinay-sd17&show_icons=true&locale=en" alt="vinay-sd17" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinay-sd17&" alt="vinay-sd17" /></p>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/vinaysd17?theme=light&font=News%20Cycle&ext=contest)
