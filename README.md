@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/vinay_sd17" target="blank"><img src="https://img.shields.io/twitter/follow/vinay_sd17?logo=twitter&style=for-the-badge" alt="vinay_sd17" /></a> </p>
 
-- 🔭 I’m currently working as [Engineering Manager @ RingCentral](https://www.ringcentral.com/)
+- 🔭 I’m currently working as [Senior Engineering Manager @ RingCentral](https://www.ringcentral.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
